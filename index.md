@@ -2,11 +2,15 @@
 
 ## Upcoming Meetups
 
-Content TK
+* A list of upcoming meetups and who is responsible for them will go here.
 
-## Organizer's responsibilities
+## Organizers
 
-Content TK
+[List of organizers and their responsibilities](organizers.md)
+
+## Content
+
+[List of possible content](content.md)
 
 ## Code of Conduct
 
