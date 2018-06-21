@@ -8,6 +8,6 @@ Content TK
 
 Content TK
 
-## Statement of Inclusion
+## Code of Conduct
 
-Content TK
+[PWA-Philly Code of Conduct](code-of-conduct.md)
